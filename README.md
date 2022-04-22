@@ -1,5 +1,5 @@
-# Udacity: Intro to Programming Nanodegree
-##Python Project: Rock Paper Scissor
+# Python Project: Rock Paper Scissor
+## Udacity: Intro to Programming Nanodegree
 This program plays the game of Rock, Paper, Scissors between two Players 
 (human or computer), and reports both Player's scores for each round and
 at the end of each game.
@@ -8,7 +8,7 @@ To start the game: python rps.py
 
 ## Table of Contents
 
-* [Gameplay Criteria](#Gameplay Criteria)
+* [Gameplay Criteria](#Gameplay)
 * [Object-Oriented Programming Criteria](#object)
 * [Code Style Criteria](#style)
 
