@@ -4,7 +4,8 @@ This program plays the game of Rock, Paper, Scissors between two Players
 (human or computer), and reports both Player's scores for each round and
 at the end of each game.
 
-To start the game: python rps.py
+## To start the game
+python rps.py
 
 ## Table of Contents
 
